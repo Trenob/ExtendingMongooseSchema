@@ -9,5 +9,8 @@ exports.create = async function(req, res){
     })
     .catch((error) => {
         console.log('Could not save user: ${error}');
+
+        //Guided prac sent a 200 response status, an error status should be sent as well
+        res.status(500).send("The user was not saved");
     });
 };
