@@ -11,3 +11,4 @@
 
 ![Screenshot 2024-06-23 at 11 05 19 PM](https://github.com/Trenob/MongooseIntoMean/assets/171889399/c461e756-2aa4-4286-8e21-df4ce1cbbe73)
 
+![Screenshot 2024-06-23 at 11 34 11 PM](https://github.com/Trenob/MongooseIntoMean/assets/171889399/89c3e052-5395-490b-99a1-cf9f75627392)
